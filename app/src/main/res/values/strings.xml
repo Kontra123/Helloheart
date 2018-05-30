@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Helloheart</string>
+    <string name="basr_url">https://s3.amazonaws.com/s3.helloheart.home.assignment/</string>
+    <string name="blood_test_category_good">good</string>
+    <string name="blood_test_category_bad">bad</string>
+    <string name="blood_test_category_unknown">unknown</string>
+    <string name="blood_test_category_text">Blood Test Category</string>
+    <string name="am_i_ok_text">AM I OK</string>
+
+</resources>
